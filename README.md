@@ -19,6 +19,7 @@ Entertainment News: 14.3%
 
 
 **Imbalance Analysis**
+
 The distribution of news articles across the different categories reveals a minor imbalance:
 
 Highest Percentage: Entertainment News (14.3%)
